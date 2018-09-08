@@ -1,10 +1,12 @@
-.giantCoconut {
-  height: 800px;
-  width: 900px;
+body {
+  margin: 0;
+  padding: 0;
 }
 
-.TFIx {
-  margin-top: 15%; 
+.head {
+  height: 100%;
+  width: 100%;
+  background-image: url("https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2013/11/05/101173577-coconuts.jpg?v=1383711313");
 }
 
 /* #FFF037, #FCC2C2, #7DCEC1, #916953 */
@@ -67,3 +69,27 @@ body {
 #delivery {
   padding: 20px;
 }
+.para {
+  width: 40%;
+  color: white;
+  margin: 1% 0 0 15%; 
+  font-size: 1.5em;
+} 
+
+.title {
+  font-size: 4em;
+  margin: 0 0 0 15%;
+  color: white;
+}
+
+.uptitle{
+  margin: 5% 0 0 0;
+  color:white;
+}
+
+.mini {
+  margin: 2% 0 0 0;
+  font-size: 2em; 
+  color: white;
+}
+/* #FFF037, #FCC2C2, #7DCEC1, #916953 */
